@@ -14,10 +14,16 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "dotenv": "^17.2.1",
     "hardhat": "^2.26.2"
   },
-  "dependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
-    "dotenv": "^17.2.1"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guruvishal1005/coe-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guruvishal1005/coe-backend/issues"
+  },
+  "homepage": "https://github.com/guruvishal1005/coe-backend#readme"
 }
