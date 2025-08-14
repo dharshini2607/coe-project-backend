@@ -2,13 +2,12 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/candybar/Desktop/coe project/coe-backend/contracts/Twin.sol": {
-      "lastModificationDate": 1754993861204,
-      "contentHash": "65801b3a18dd3a57ee415e2ce5a57ae1",
+      "lastModificationDate": 1755060118998,
+      "contentHash": "811684d48ba9ae8eacaa17154f8190ab",
       "sourceName": "contracts/Twin.sol",
       "solcConfig": {
-        "version": "0.8.28",
+        "version": "0.8.19",
         "settings": {
-          "evmVersion": "paris",
           "optimizer": {
             "enabled": false,
             "runs": 200
